@@ -2,4 +2,4 @@ streamlit
 tensorflow
 numpy
 pandas
-sklearn
+scikit-learn
